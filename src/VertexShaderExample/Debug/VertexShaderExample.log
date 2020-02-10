@@ -1,0 +1,53 @@
+﻿  Particle.cpp
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.h(116,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.h(132,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.h(148,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.cpp(48,41): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.cpp(48,38): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.cpp(48,35): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.cpp(50,51): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.cpp(50,43): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.cpp(50,35): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.cpp(56,41): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.cpp(56,38): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.cpp(56,35): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.cpp(58,51): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.cpp(58,43): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.cpp(58,35): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.cpp(94,39): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.cpp(94,36): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.cpp(94,33): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.cpp(113,39): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.cpp(113,36): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.cpp(113,33): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.cpp(81,27): warning C4101: 'sup': 未參考的區域變數
+  ShaderUtil.cpp
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.h(116,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.h(132,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.h(148,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  StateMachine.cpp
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.h(116,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.h(132,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.h(148,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\StateMachine.cpp(64,17): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\StateMachine.cpp(65,17): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\StateMachine.cpp(66,17): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\StateMachine.cpp(111,36): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\StateMachine.cpp(127,9): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\StateMachine.cpp(126,9): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\StateMachine.cpp(162,17): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\StateMachine.cpp(163,17): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\StateMachine.cpp(164,17): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\StateMachine.cpp(213,17): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\StateMachine.cpp(214,17): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\StateMachine.cpp(215,17): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\StateMachine.cpp(241,18): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\StateMachine.cpp(242,18): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\StateMachine.cpp(243,18): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  TextureUtil.cpp
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.h(116,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.h(132,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.h(148,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  exampleHW2.cpp
+  正在產生程式碼...
+  VertexShaderExample.vcxproj -> D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\Debug\VertexShaderExample.exe

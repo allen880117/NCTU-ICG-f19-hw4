@@ -1,0 +1,10 @@
+﻿  exampleHW2.cpp
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\exampleHW2.cpp(1,10): fatal error C1083: 無法開啟包含檔案: 'FreeImage.h': No such file or directory
+  Particle.cpp
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.h(2,10): fatal error C1083: 無法開啟包含檔案: 'FreeImage.h': No such file or directory
+  ShaderUtil.cpp
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.h(2,10): fatal error C1083: 無法開啟包含檔案: 'FreeImage.h': No such file or directory
+  StateMachine.cpp
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\StateMachine.h(2,10): fatal error C1083: 無法開啟包含檔案: 'FreeImage.h': No such file or directory
+  TextureUtil.cpp
+D:\Google_Drive\COURSE\108-1\Introduction_to_Computer_Graphics\HW4\0616309_HW4\VertexShaderExample\VertexShaderExample\Particle.h(2,10): fatal error C1083: 無法開啟包含檔案: 'FreeImage.h': No such file or directory
